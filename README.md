@@ -1,1 +1,0 @@
-# DeepFake-Detection-using-Quantum-Computing
