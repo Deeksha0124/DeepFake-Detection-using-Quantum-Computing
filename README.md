@@ -1,3 +1,4 @@
+# 🤖 DeepFake-Detection-using-Quantum-Computing
 Deepfake technology poses a growing threat, making it essential to develop robust detection methods. 
 Traditional machine learning models face limitations in detecting highly sophisticated deepfakes.
 This project adopts a hybrid quantum-classical approach, integrating Quantum Transfer Learning (QTL) with a Convolutional Neural Network (CNN) to enhance detection accuracy.
